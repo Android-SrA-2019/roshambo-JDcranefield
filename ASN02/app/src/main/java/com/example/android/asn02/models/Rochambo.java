@@ -1,8 +1,17 @@
+/*
+ * Submitted By: Jordan Trenholm
+ * Assignment: 2
+ * Date: 2019/02/28
+ */
 
+package com.example.android.asn02.models;
 
+import com.example.android.asn02.R;
+
+import java.io.Serializable;
 import java.util.Random;
 
-public class Rochambo {
+public class Rochambo implements Serializable {
 
     public static final int ROCK = 0;
     public static final int PAPER = 1;

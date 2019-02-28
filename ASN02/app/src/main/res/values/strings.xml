@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ASN02</string>
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+    <string name="draw">Draw</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="win_lose_draw">Win/Lose/Draw</string>
+    <string name="user_move_desc">your move</string>
+    <string name="cpu_move_desc">games move</string>
+    <string name="none">None</string>
+</resources>
